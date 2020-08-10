@@ -1,0 +1,65 @@
+{
+  "id": "1730979",
+  "name": "myicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1017255",
+      "name": "安卓",
+      "font_class": "anzhuo",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "2573160",
+      "name": "linux",
+      "font_class": "linux",
+      "unicode": "e93b",
+      "unicode_decimal": 59707
+    },
+    {
+      "icon_id": "3575845",
+      "name": "icons8-mac_os",
+      "font_class": "icons-mac_os",
+      "unicode": "eadc",
+      "unicode_decimal": 60124
+    },
+    {
+      "icon_id": "8607146",
+      "name": "suse",
+      "font_class": "suse",
+      "unicode": "e9cf",
+      "unicode_decimal": 59855
+    },
+    {
+      "icon_id": "13363268",
+      "name": "windows",
+      "font_class": "untitled",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "13461933",
+      "name": "centos",
+      "font_class": "centos1",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "13819887",
+      "name": "ubuntu",
+      "font_class": "ubuntu",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "13392688",
+      "name": "centos",
+      "font_class": "centos",
+      "unicode": "e7d7",
+      "unicode_decimal": 59351
+    }
+  ]
+}
